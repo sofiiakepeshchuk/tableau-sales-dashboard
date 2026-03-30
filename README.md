@@ -15,7 +15,7 @@ The goal is to explore key metrics, identify trends, and compare performance acr
 ---
 
 ## Dataset
-The dataset includes sales data used to analyze performance across time, regions, and categories.
+The dataset represents sales performance data across different regions, time periods, and product categories.
 
 ---
 
