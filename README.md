@@ -41,3 +41,9 @@ Helps businesses monitor performance, identify growth opportunities, and support
 
 ## Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/sofiia.kepeshchuk/viz/book1_17696925029680/SalesAnalysis)
+
+---
+
+## Dashboard Preview
+
+![Dashboard](./dashboard.png)
