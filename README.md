@@ -53,4 +53,4 @@ Helps businesses monitor performance, identify growth opportunities, and support
 
 ## Dashboard Preview
 
-![Dashboard](Sales Analysis.png)
+![Dashboard](dashboard.png)
