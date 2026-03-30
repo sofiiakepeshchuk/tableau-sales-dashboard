@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard (Tableau)
 
 ## Overview
-This project presents an interactive Tableau dashboard for analyzing sales performance.
+This project presents an interactive Tableau dashboard for analyzing sales performance and supporting business decision-making.
 
 The goal is to explore key metrics, identify trends, and compare performance across regions.
 
@@ -31,6 +31,13 @@ The dataset includes sales data used to analyze performance across time, regions
 - Identified top-performing regions  
 - Analyzed sales trends  
 - Compared performance across categories  
+
+---
+
+## Key Metrics
+- Total Sales  
+- Sales by Region  
+- Sales Trends over Time
 
 ---
 
