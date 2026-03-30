@@ -28,9 +28,9 @@ The dataset includes sales data used to analyze performance across time, regions
 ---
 
 ## Insights
-- Identified top-performing regions  
-- Analyzed sales trends  
-- Compared performance across categories  
+- Top-performing regions generate the highest revenue  
+- Sales show clear trends over time  
+- Performance varies across regions and categories   
 
 ---
 
